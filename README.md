@@ -29,5 +29,5 @@ For expenses - select Subtract Funds
 
 ## Links
 
-- Github:
+- Github: https://nascott94.github.io/progressive-budget/
 - Heroku: https://fast-waters-23060.herokuapp.com/
